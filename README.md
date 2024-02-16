@@ -8,7 +8,7 @@ I am currently learning Software Engineering at ALU in Rwanda
 
 * 🌍  I'm based in Kigali ,Rwanda
 * ✉️  You can contact me at [imanzikplacide603@gmail.com](mailto:imanzikplacide603@gmail.com)
-* 🧠  I'm learning Python,Javascript,HTML and CSS
+* 🧠  I'm curretnly learning React.js
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I'm a musical instruments enthusiast 🎹🎸🤫
 
