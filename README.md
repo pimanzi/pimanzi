@@ -5,7 +5,7 @@ Front End React Developer
 -------------------------
 
 # 💫 About Me:
-*📗   I am a Software Engineering student  at ALU in Rwanda<br>* 🌍  I'm based in Kigali, Rwanda<br>* ✉️  You can contact me at [imanzikabisa@gmail.com](mailto:imanzikabisa@gmail.com)<br>* 🧠  I'm currently learning NextJs<br>* 🤝  Open to collaborating on React projects (frontend focus)<br>* ⚡  I'm a musical instruments enthusiast 🎹🎸🤫
+📗   I am a Software Engineering student  at ALU in Rwanda<br> 🌍  I'm based in Kigali, Rwanda<br>* ✉️  You can contact me at [imanzikabisa@gmail.com](mailto:imanzikabisa@gmail.com)<br>* 🧠  I'm currently learning NextJs<br>* 🤝  Open to collaborating on React projects (frontend focus)<br>* ⚡  I'm a musical instruments enthusiast 🎹🎸🤫
 
 
 ## 🌐 Socials:
