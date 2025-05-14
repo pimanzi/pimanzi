@@ -8,15 +8,15 @@ Fullstack Developer
 * 📗  I'm a Software Engineering student at ALU in Rwanda  
 * 🌍  I'm based in Kigali, Rwanda  
 * ✉️  You can contact me at [imanzikabisa@gmail.com](mailto:imanzikabisa@gmail.com)  
-* 🌐  Portfolio: [placidekabisa.dev](https://placidekabisa.dev)  
+* 🌐  Portfolio: [placidekabisa.dev](https://itskabisa.netlify.app/)  
 * 🧠  I'm currently learning Flutter and Machine Learning  
-* 🤝  Open to collaborating on React projects (frontend focus)  
+* 🤝  Open to collaborating on web development projects
 * ⚡  I'm a musical instruments enthusiast 🎹🎸🤫  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_k_a_b_i_s_a) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/placide-imanzi-916a68302) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://placidekabisa.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://itskabisa.netlify.app/)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
