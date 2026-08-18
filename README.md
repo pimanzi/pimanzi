@@ -5,7 +5,7 @@ Fullstack Developer
 -------------------------
 
 # 💫 About Me:
-* 📗  I'm a Software Engineering student at ALU in Rwanda  
+* 📗  I'm a Fullstack developer at BESTSELLER  
 * 🌍  I'm based in Kigali, Rwanda  
 * ✉️  You can contact me at [imanzikabisa@gmail.com](mailto:imanzikabisa@gmail.com)  
 * 🌐  Portfolio: [itskabisa.netlify.app](https://itskabisa.netlify.app/)  
