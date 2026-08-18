@@ -8,8 +8,7 @@ Fullstack Developer
 * 📗  I'm a Fullstack developer at BESTSELLER  
 * 🌍  I'm based in Kigali, Rwanda  
 * ✉️  You can contact me at [imanzikabisa@gmail.com](mailto:imanzikabisa@gmail.com)  
-* 🌐  Portfolio: [itskabisa.netlify.app](https://itskabisa.netlify.app/)  
-* 🧠  I'm currently learning Flutter and Machine Learning  
+* 🌐  Portfolio: [itskabisa.netlify.app](https://itskabisa.netlify.app/)    
 * 🤝  Open to collaborating on web development projects
 * ⚡  I'm a musical instruments enthusiast 🎹🎸🤫  
 
